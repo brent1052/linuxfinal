@@ -1,5 +1,0 @@
-USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-dbus         657  0.0  0.0 268832  4160 ?        Ss   13:57   0:00 /usr/bin/dbus-broker-launch --scope system --audit
-dbus         658  0.0  0.0   5676  2896 ?        S    13:57   0:00 dbus-broker --log 4 --controller 9 --machine-id a3f6aef22bda4abaae47b0eb5fc08e62 --max-bytes 536870912 --max-fds 4096 --max-matches 131072 --audit
-chrony       663  0.0  0.0  78672  2556 ?        S    13:57   0:00 /usr/sbin/chronyd
-polkitd      704  0.0  0.2 1543748 21084 ?       Ssl  13:58   0:00 /usr/lib/polkit-1/polkitd --no-debug
